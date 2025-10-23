@@ -286,7 +286,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CellPrefab: {fileID: 5646991248136652310, guid: ec6b5f06204eeb6458d225922a5abe55, type: 3}
-  ancho: 15
+  ancho: 13
   alto: 7
   espacio: 1.3
 --- !u!4 &1180503046
